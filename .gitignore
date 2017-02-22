@@ -1,0 +1,9 @@
+node_modules
+.idea
+**/app/**/*.js
+**/app/**/*.js.map
+**/app/**/*.css
+**/app/**/*.css.map
+yarn-error.log
+yarn.lock
+*.7z
